@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\bin\Debug\My project MR FIT GYM.exe.config
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\bin\Debug\My project MR FIT GYM.exe
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\bin\Debug\My project MR FIT GYM.pdb
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My project MR FIT GYM.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My_project_MR_FIT_GYM.Form1.resources
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My_project_MR_FIT_GYM.Form2.resources
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My_project_MR_FIT_GYM.Form3.resources
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My_project_MR_FIT_GYM.Form4.resources
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My_project_MR_FIT_GYM.Properties.Resources.resources
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My project MR FIT GYM.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My project MR FIT GYM.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My project MR FIT GYM.exe
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My project MR FIT GYM.pdb
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\bin\Debug\My project MR FIT GYM.exe.manifest
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\bin\Debug\My project MR FIT GYM.application
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My project MR FIT GYM.exe.manifest
+C:\Users\Hp\Desktop\.vs\My project MR FIT GYM\My project MR FIT GYM\obj\Debug\My project MR FIT GYM.application
